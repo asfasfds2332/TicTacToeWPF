@@ -1,0 +1,15 @@
+C:\Users\adamp\source\repos\Tic Tac Toe WPF\Tic Tac Toe WPF\bin\Debug\Tic Tac Toe WPF.exe.config
+C:\Users\adamp\source\repos\Tic Tac Toe WPF\Tic Tac Toe WPF\bin\Debug\Tic Tac Toe WPF.exe
+C:\Users\adamp\source\repos\Tic Tac Toe WPF\Tic Tac Toe WPF\bin\Debug\Tic Tac Toe WPF.pdb
+C:\Users\adamp\source\repos\Tic Tac Toe WPF\Tic Tac Toe WPF\obj\Debug\Tic Tac Toe WPF.csprojAssemblyReference.cache
+C:\Users\adamp\source\repos\Tic Tac Toe WPF\Tic Tac Toe WPF\obj\Debug\MainWindow.g.cs
+C:\Users\adamp\source\repos\Tic Tac Toe WPF\Tic Tac Toe WPF\obj\Debug\App.g.cs
+C:\Users\adamp\source\repos\Tic Tac Toe WPF\Tic Tac Toe WPF\obj\Debug\Tic Tac Toe WPF_MarkupCompile.cache
+C:\Users\adamp\source\repos\Tic Tac Toe WPF\Tic Tac Toe WPF\obj\Debug\Tic Tac Toe WPF_MarkupCompile.lref
+C:\Users\adamp\source\repos\Tic Tac Toe WPF\Tic Tac Toe WPF\obj\Debug\MainWindow.baml
+C:\Users\adamp\source\repos\Tic Tac Toe WPF\Tic Tac Toe WPF\obj\Debug\Tic Tac Toe WPF.g.resources
+C:\Users\adamp\source\repos\Tic Tac Toe WPF\Tic Tac Toe WPF\obj\Debug\Tic_Tac_Toe_WPF.Properties.Resources.resources
+C:\Users\adamp\source\repos\Tic Tac Toe WPF\Tic Tac Toe WPF\obj\Debug\Tic Tac Toe WPF.csproj.GenerateResource.cache
+C:\Users\adamp\source\repos\Tic Tac Toe WPF\Tic Tac Toe WPF\obj\Debug\Tic Tac Toe WPF.csproj.CoreCompileInputs.cache
+C:\Users\adamp\source\repos\Tic Tac Toe WPF\Tic Tac Toe WPF\obj\Debug\Tic Tac Toe WPF.exe
+C:\Users\adamp\source\repos\Tic Tac Toe WPF\Tic Tac Toe WPF\obj\Debug\Tic Tac Toe WPF.pdb
